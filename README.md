@@ -1,2 +1,2 @@
 # Book-borrow-System
-JAVA - eclipse
+JAVA - netbeans
